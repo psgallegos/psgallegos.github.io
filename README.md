@@ -1,2 +1,2 @@
 # psgallegos.github.io
-## Estudiante de Ingenieria 
+## Estudiante de Ingenieria en Tecnologias
