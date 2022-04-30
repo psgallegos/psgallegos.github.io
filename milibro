@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NANO TECH</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="icon" href="img/icononano.png">
+    
+</head>
+
+<body>
+
+
+
+
+    <header> 
+        <form action="index.html" id="logonano" >
+            <input type="image" src="img/logonanoblanco.png"  alt="logonano"/>
+        </form>
+            
+           
+            <nav id="navegador">
+                <table>
+                    <tr>
+                        <td><a href="index.html"> <b> INICIO </b></a> </td>
+                            <td><a href="nosotros.html"> <b>SOBRE NOSOTROS</b></a></td>
+                            <td><a href="productos.html"> <b>NUESTROS PRODUCTOS</b></a></td>
+                            <td><a href="iniciosesion.html"> <b>INICIAR SESSIÓN </b></a></td>
+                    </tr>
+                </table>    
+            </nav>
+
+    </header>
+   
+        <figure id="ban"> 
+            <img src="img/bannernano1.png" height="365" alt="Logo NANOTECH"  title="Tienda online de Tecnología">
+            
+
+        </figure>
+        
+
+        
+        
+    <h1>TODOS LOS PRODUCTOS</h1>
+
+   
+        <nav>
+            <div class="container">
+                <table >
+                    
+                    <tr>
+                        <td class="item"><img src="img/audifonosalexa.png" height="150" alt="audifonos alexa"  title="Telesin alexa Auriculares bluetooth" class="item-img"> <br>Telesin alexa </td>
+                        <td class="item"> <img src="img/HaylouSolar.png" height="150" alt="haylou solar"  title="reloj haylou solar" class="item-img"> <br>Haylou Solar</td>
+                        <td class="item"> <img src="img/SoporteUsams.png" height="150" alt="Soporte magnético"  title="Soporte magnético"class="item-img"><br>Soporte magnético</td>
+                        <td class="item"> <img src="img/TVBox.png" height="150" alt="TV BOX"  title="TV BOX" class="item-img"><br>TV BOX</td>
+                    </tr>
+                   
+                    <tr>
+                        <td class="item"> <img src="img/iPad.png" height="150" alt="Apple ipad 10.2 pulgadas"  title="Apple ipad 10.2 pulgadas" class="item-img"><br>Apple ipad 10.2 pulgadas</td>
+                        <td class="item"> <img src="img/TabletRCAVoyager.png" height="150" alt="Tablet RCA Voyager"  title="Tablet RCA Voyager" class="item-img"><br>Tablet RCA Voyager</td>
+                        <td class="item"> <img src="img/AmazonFire7.png" height="150" alt="Amazon Fire 7"  title="Amazon Fire 7" class="item-img" class="item-img"><br>Amazon Fire 7</td>
+                        <td class="item"> <img src="img/Huion420.png" height="150" alt="Huion 420"  title="Huion 420" class="item-img" class="item-img"><br>Huion 420</td>
+                    </tr>
+                    <tr>
+                        <td class="item"> <img src="img/AmazonFireTVStickLite.png" height="150" alt="AMAZON FIRE TV STICK Lite" title="AMAZON FIRE TV STICK Lite" class="item-img"><br>AMAZON FIRE TV STICK Lite</td>
+                        <td class="item"> <img src="img/AmazonFireTVStick4K.png" height="150" alt="AMAZON FIRE TV STICK 4K" title="AMAZON FIRE TV STICK 4K"class="item-img"><br>AMAZON FIRE TV STICK 4K</td>
+                        <td class="item"> <img src="img/AmazonFireTVStick.png" height="150" alt="Amazon Fire TV Stick" title="Amazon Fire TV Stick" class="item-img"><br>Amazon Fire TV Stick</td>
+                        <td class="item"> <img src="img//AlexaEchoDot.png" height="150" alt="ALEXA ECHO DOT" title="ALEXA ECHO DOT"class="item-img"><br>ALEXA ECHO DOT</td>
+                    </tr>
+                    <tr>
+                        <td class="item"> <img src="img/RokuSE.png" height="150" alt="Roku SE" title="Roku SE" class="item-img"><br>Roku SE </td>
+                        <td class="item"> <img src="img/RokuExpress.png" height="150" alt="Roku express" title="Roku express" class="item-img"><br>Roku express</td>
+                        <td class="item"> <img src="img/XiaomiMiBoxS.png" height="150" alt="Xiaomi mi box s" title="Xiaomi mi box s" class="item-img"><br>Xiaomi mi box s</td>
+                        <td class="item"> <img src="img/XiaomiMiTVStick.png" height="150" alt="Xiaomi mi tv stick" title="Xiaomi mi tv stick" class="item-img"><br>Xiaomi mi tv stick</td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="item"> <img src="img/SengledSmartLed(2).png" height="150" alt="Sengled Smart Led" title="Sengled Smart Led" class="item-img"><br>Sengled Smart Led</td>
+                        <td class="item"> <img src="img/GoogleHomeMini.png" height="150" alt="Google NEST mini" title="Google NEST mini" class="item-img"><br>Google NEST mini</td>
+                        <td class="item"> <img src="img/Chromecast.png" height="150" alt="Chromecast 3ra gen" title="Chromecast 3ra gen" class="item-img"><br>Chromecast 3ra gen</td>
+                        <td class="item"> <img src="img/SengledSmartLed.png" height="150" alt="STREAMING TV" title="STREAMING TV" class="item-img"><br>STREAMING TV</td>
+                    </tr>
+                    
+
+
+                </table> 
+
+            </div>
+                
+        </nav>
+        <div id="aside"><aside> <img src="img/bannernano.png" height="600" alt="Banner NANOTECH" title="Tienda online de Tecnología"></aside></div>
+        
+    
+        <p class="parrafo">ESTRENO IPTV</p>
+        <p class="parrafo"><b> Los mejores estrenos en tu cuenta de IPTV!<br></b>
+            El IPTV (Internet Protocol Television o televisión por protocolo de Internet) es el sistema para ver canales de televisión o VOD a través de nuestra señal de Internet. 
+Normalmente, los canales de televisión y VOD tradicionales han transmitido su señal para que pueda recibirse con una antena, un satélite o un cable. Pero el IPTV se diferencia gracias a que transmite su señal directamente, mediante Internet, a un aparato instalado en nuestra casa.
+            Consíguelo con nosotros 
+            Acualizamos diariamente nuestro contenido para que disfrutes de tus películas favoritas. Sólo necesitas de un televisor inteligente.<br>
+            <b> ¿No tienes un televisor inteligente?</b><br>
+            Quieres uno y no deseas gastar demás? Convierte tu TV de toda la vida en Smart TV! Nosotros te asesoramos.<br>
+            
+            <b>¿Como puedo contratar TV por internet? </b><br><br>
+            Contáctate con uno de nuestros asesores de Nanotech TV para brindarte una atención personalizada para que pueda probar el sistema y comience a disfrutar de la televisión del futuro hoy mismo. <br><br>
+            <b>¿Puedo probar el sistema primero? </b><br>
+            Claro que si, nuestro asesor te brindara una prueba gratuita de 2 horas, de esta manera podrás comprobar por ti mismo la estabilidad y calidad de Nanotech TV.<br>
+            <b>¿Qué velocidad de internet necesito?</b><br>
+            Podrás disfrutar de tu sistema con tan solo 5 mb/s de conexión a internet y te prometemos la mejor estabilidad del mercado.<br>
+
+            
+
+
+
+        </p>
+            <form action="https://wa.me/message/HAZVLQL4XS4MK1" target="_BLANK" id="wpp">
+                <input type="image" src="img/wpp.png" height="75" alt="NANOTECH WhatsApp"/>
+            </form>
+
+           
+           <ul id="noticias">
+               
+            <h3>NOTICIAS TECNOLÓGICAS</h3>
+            <li> <a href="https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-routers-wifi-mesh-866087"> Pon WiFi Mesh en casa con estos packs de routers baratos que solucionarán tus problemas con Internet</a> </li>
+            <li> <a href="https://computerhoy.com/noticias/tecnologia/mejor-reloj-inteligente-fitbit-ahora-oferta-cuesta-169eu-alternativa-ideal-apple-watch-866131"> El mejor reloj inteligente de Fitbit está ahora en oferta: cuesta 169€ y es una alternativa ideal al Apple Watch</a> </li>
+            <li> <a href="https://computerhoy.com/noticias/tecnologia/reloj-deportivo-xiaomi-ahora-mucho-barato-cuesta-99eu-tiene-pantalla-amoled-865585"> El reloj deportivo de Xiaomi es ahora mucho más barato: cuesta 99€ y tiene pantalla AMOLED </a> </li>
+
+           </ul>
+
+        <form action="https://www.youtube.com/channel/UChcXTeS02rSddrOIfA8UQPA" target="_BLANK" >
+            <input type="image" src="img/banneryt.png" height="450" alt="NANOTECH Instagram"/>
+        </form>
+            <video src="img/iptvlatinandroid.mp4" controls="" height="830"></video id= video>
+
+    <footer>
+        VISÍTANOS EN NUESTRAS REDES SOCIALES 
+      
+        <table id="redes">
+        
+            <tr>
+                <td><form action="https://wa.me/message/HAZVLQL4XS4MK1" target="_BLANK" >
+                    <input type="image" src="img/wpp.png" height="75" alt="NANOTECH WhatsApp"/>
+                </form> </td>
+                <td><form action="https://www.instagram.com/nanotechecuador/" target="_BLANK" >
+                    <input type="image" src="img/instalogo.png" height="75" alt="NANOTECH Instagram"/>
+                </form></td>
+                <td><form action="https://www.facebook.com/nanotechecuador" target="_BLANK" >
+                    <input type="image" src="img/fblogo.png" height="75" alt="NANOTECH Facebook"/>
+                </form> </td>
+                
+                
+            </tr>
+           
+        </table>
+    
+    </footer>
+    
+</body>
+</html>
